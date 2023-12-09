@@ -1,0 +1,72 @@
+[
+    {
+        "image": "https://i.ytimg.com/vi/9Qw0qRz96Ng/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=9Qw0qRz96Ng",
+        "title": "Как работать с таблицами?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/LUNimx56Oy8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=LUNimx56Oy8",
+        "title": "Как работать с коллизией?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/CfzGfCO3AF8/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=CfzGfCO3AF8",
+        "title": "Как работать с камерой?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/IG8_04dR914/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=IG8_04dR914",
+        "title": "Как оптимизировать большие игры?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/MWLO4yHANdQ/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=MWLO4yHANdQ",
+        "title": "Как работать с циклом?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/oslgyREDqUw/sddefault.jpg",
+        "link": "https://www.youtube.com/watch?v=oslgyREDqUw",
+        "title": "Как работать в CCode для начинающих?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/GhFe3oFo5UA/sddefault.jpg",
+        "link": "https://www.youtube.com/watch?v=GhFe3oFo5UA",
+        "title": "Как сделать стрельбу?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/9tjjJwpvN9g/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=9tjjJwpvN9g",
+        "title": "Как работать с шрифтами?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/Bk8VzNQqAmw/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=Bk8VzNQqAmw",
+        "title": "Как работать с объектами и фигурами?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/yH1BK4ES9Ew/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=yH1BK4ES9Ew",
+        "title": "Как работать с нажатиями?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/pdkMBMOIXxw/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=pdkMBMOIXxw",
+        "title": "Как работать с группами/сценами?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/1fv4DcVUZE0/maxresdefault.jpg",
+        "link": "https://youtu.be/1fv4DcVUZE0",
+        "title": "Как сделать джойстик?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/f_HOEBgxco8/maxresdefault.jpg",
+        "link": "https://youtu.be/f_HOEBgxco8",
+        "title": "Как работать с таймером?"
+    },
+    {
+        "image": "https://i.ytimg.com/vi/SOVFal9FF08/maxresdefault.jpg",
+        "link": "https://youtu.be/SOVFal9FF08",
+        "title": "Как работать с асинхронностью и синхронностью?"
+    }
+]
