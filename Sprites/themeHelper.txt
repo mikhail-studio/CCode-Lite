@@ -1,0 +1,8 @@
+face
+x: 12
+y: 29
+size: 350
+
+frame
+x: 60
+y: 60
