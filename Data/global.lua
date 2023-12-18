@@ -1,8 +1,15 @@
 LANG, STR = {}, {}
 
+GANIN = {}
+GANIN.relaunch = function() end
+GANIN.az = function() end
+GANIN.perm = function() end
+GANIN.bluetooth = function() end
+GANIN.path = function() return '/data/data' end
+GANIN.webview = function(listener) listener() end
+
 CLASS = require 'Data.class'
 THEMES = require 'Data.themes'
-GANIN = require 'plugin.ganin'
 CLIENT = require 'Network.client'
 SERVER = require 'Network.server'
 RENDER = require 'Core.Simulation.render'
@@ -94,13 +101,6 @@ if IS_SIM or IS_WIN then
         local pathToFile = FILEPICKER.saveFileDialog({filter_patterns = {'*.ccode'}})
         if path then OS_COPY(path, pathToFile) end listener()
     end
-
-    GANIN.relaunch = function() end
-    GANIN.az = function() end
-    GANIN.perm = function() end
-    GANIN.bluetooth = function() end
-    GANIN.path = function() return '/data/data' end
-    GANIN.webview = function(listener) listener() end
 end
 
 if not IS_SIM and not LIVE then
